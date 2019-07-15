@@ -5,4 +5,4 @@ Utilidades y pequeños scripts para Linux
 Script para extraer todos los archivos de un directorio con n directorios 
 
 ## Catz
-Scrip de C. Gatos en la terminal
+Script Gatos en la terminal
